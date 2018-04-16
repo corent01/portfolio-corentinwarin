@@ -10,6 +10,10 @@ html {
   background: #222222;
 }
 
+#theme {
+    font-size: 5px;
+}
+
 body {
   font-family: "Work Sans", Arial, sans-serif;
   font-size: 18px;
