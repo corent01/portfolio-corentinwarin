@@ -10,8 +10,14 @@ html {
   background: #222222;
 }
 
-#theme {
+#theme1 {
+    font-size: 10px;
+}
+#theme2 {
     font-size: 5px;
+}
+p {
+    width: 125% !important;
 }
 
 body {
